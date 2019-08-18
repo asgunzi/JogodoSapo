@@ -28,7 +28,7 @@ Uma vez selecionado, podemos posicioná-lo com as propriedades Top e Left (equiv
 
 
 Objetivo: Trocar os sapos de posição.
-![](https://ferramentasexcelvba.files.wordpress.com/2019/08/sapo3.png?w=656)
+![](https://ferramentasexcelvba.files.wordpress.com/2019/08/sapo3.jpg?w=656)
 
 
 Ideias técnicas com uma pitada de filosofia: https://ideiasesquecidas.com
